@@ -20,8 +20,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                          | Associated Project         |
-|------------------------------------------------|----------------------------|
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Assets, Threats, and Vulnerabilities          | https://docs.google.com/document/d/1JoKelI2NE_Nunpwq9Tf6E4ox7XWKrZZdgYNM6S09870/template/preview |
+| ----------------------------------------------| ------ |
 | SIEM Implementation and Log Analysis          | SIEM Lab |
 | Network Traffic Monitoring and Attack Detection | [Vulnerability Assessment ](./vulnerability-assessment.md) CLICK-HERE-1|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
