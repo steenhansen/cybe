@@ -1,3 +1,10 @@
+FROM https://docs.google.com/document/d/1pRpdpQMEWskxSkwqEMv8W7A7x8GXQlcn0hEcDzWet3Y/template/preview?resourcekey=0-3GRRWAd8HryVgof-Jc33yA
+
+---------------------------
+---------------------------
+---------------------------
+
+
 # NIST SP 800-30 Rev. 1
 ---------------------------------
 
@@ -13,6 +20,7 @@ rst updated version of this publication. NIST occasionally revises its documents
 information, reflect changes in technology and regulatory requirements, or address feedback.
 
 <b>Note:</b> NIST's [Computer Security Resources Center](https://csrc.nist.gov/pubs/sp/800/30/r1/final) contains more information on SP 800-30 Rev. 1.
+
 CLICK-HERE-3
 
 ### Threat sources
@@ -73,7 +81,3 @@ Threats arising from individuals or groups who might purposefully or accidentall
     </tr>
 </table>
 
----------------------------
-------------------------------------------------------
----------------------------------------------------------------------------------
-FROM https://docs.google.com/document/d/1pRpdpQMEWskxSkwqEMv8W7A7x8GXQlcn0hEcDzWet3Y/template/preview?resourcekey=0-3GRRWAd8HryVgof-Jc33yA

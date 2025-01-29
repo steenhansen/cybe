@@ -1,3 +1,9 @@
+FROM https://github.com/Test-MyDFIR/Test-MyDFIR/blob/main/README.md
+
+---------------------------
+---------------------------
+---------------------------
+
 # Hello, I'm Fred Alardin
 
 <a href="https://www.linkedin.com/in/fred-alardin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -60,7 +66,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Detection Lab
 - SOC Automation Project
 
----------------------------
-------------------------------------------------------
----------------------------------------------------------------------------------
-FROM https://github.com/Test-MyDFIR/Test-MyDFIR/blob/main/README.md
