@@ -22,8 +22,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Assets, Threats, and Vulnerabilities          | https://docs.google.com/document/d/1JoKelI2NE_Nunpwq9Tf6E4ox7XWKrZZdgYNM6S09870/template/preview |
-| SQL queries         | https://docs.google.com/document/d/1R-wz2DrsddIlst5iWVKa8-_j8sROgKAWvtITmy-o2dk/template/preview?resourcekey=0-VW7ZQ-CAPGe9JIbBSjZJjg |
+| Assets, Threats, and Vulnerabilities          | Threats lab  https://docs.google.com/document/d/1JoKelI2NE_Nunpwq9Tf6E4ox7XWKrZZdgYNM6S09870/template/preview |
+| SQL queries         | SQL lab  https://docs.google.com/document/d/1R-wz2DrsddIlst5iWVKa8-_j8sROgKAWvtITmy-o2dk/template/preview?resourcekey=0-VW7ZQ-CAPGe9JIbBSjZJjg |
+| Update file through a Python algorithm        | Python lab https://docs.google.com/document/d/1Ra0_gH1l0Pd8-APMg9W_YRMG5UYqJ81ANLRPdZc2qQA/template/preview?resourcekey=0-WZDMIQTlAKDQ7yRhzf9NyA |
+| Use Linux commands to manage file permissions        | Linux lab https://docs.google.com/document/d/1jl9kN7WbrdRwgJw7urDYLPE_JenWoP7MRY1N0GgpG48/template/preview |
 | ----------------------------------------------| ------ |
 | SIEM Implementation and Log Analysis          | SIEM Lab |
 | Network Traffic Monitoring and Attack Detection | [Vulnerability Assessment ](./vulnerability-assessment.md) CLICK-HERE-1|
