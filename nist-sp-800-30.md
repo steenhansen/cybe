@@ -38,7 +38,7 @@ accessible database server.
        <td width="150">
        <u><b>Type</b></u>
         </td>
-        <td width="400">
+        <td width="200">
         <u><b>Examples</b></u>
         </td>
           <td width="400">
@@ -49,7 +49,7 @@ accessible database server.
 <table>
  <tr>
        <td width="150">
-       <b>Environmental</b>
+       <b>Human</b>
         </td>
         <td width="200">
                 Standard user
