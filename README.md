@@ -23,6 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Assets, Threats, and Vulnerabilities          | https://docs.google.com/document/d/1JoKelI2NE_Nunpwq9Tf6E4ox7XWKrZZdgYNM6S09870/template/preview |
+| SQL queries         | https://docs.google.com/document/d/1R-wz2DrsddIlst5iWVKa8-_j8sROgKAWvtITmy-o2dk/template/preview?resourcekey=0-VW7ZQ-CAPGe9JIbBSjZJjg |
 | ----------------------------------------------| ------ |
 | SIEM Implementation and Log Analysis          | SIEM Lab |
 | Network Traffic Monitoring and Attack Detection | [Vulnerability Assessment ](./vulnerability-assessment.md) CLICK-HERE-1|
