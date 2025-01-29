@@ -26,6 +26,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SQL queries         | SQL lab  https://docs.google.com/document/d/1R-wz2DrsddIlst5iWVKa8-_j8sROgKAWvtITmy-o2dk/template/preview?resourcekey=0-VW7ZQ-CAPGe9JIbBSjZJjg |
 | Update file through a Python algorithm        | Python lab https://docs.google.com/document/d/1Ra0_gH1l0Pd8-APMg9W_YRMG5UYqJ81ANLRPdZc2qQA/template/preview?resourcekey=0-WZDMIQTlAKDQ7yRhzf9NyA |
 | Use Linux commands to manage file permissions        | Linux lab https://docs.google.com/document/d/1jl9kN7WbrdRwgJw7urDYLPE_JenWoP7MRY1N0GgpG48/template/preview |
+|  Finalize your incident handler's journal      | Incident lab  https://docs.google.com/document/d/1AKWmotMiPUDHgajfRXaxBEDor4nF1Dgl8v-NcZnFBDw/template/preview?resourcekey=0-bwoDlp-9ObtIKNDEB4_0Hg |
+|  Conduct a security audit      | Audit lab  https://docs.google.com/document/d/1QQOXccTxs9g9OGlm56O52nelOuOYZz1NE6LAN_sV5nU/template/preview |
 | ----------------------------------------------| ------ |
 | SIEM Implementation and Log Analysis          | SIEM Lab |
 | Network Traffic Monitoring and Attack Detection | [Vulnerability Assessment ](./vulnerability-assessment.md) CLICK-HERE-1|
