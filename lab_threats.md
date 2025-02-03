@@ -1,8 +1,6 @@
-FROM https://docs.google.com/document/d/1JoKelI2NE_Nunpwq9Tf6E4ox7XWKrZZdgYNM6S09870/template/preview
 
----------------------------
----------------------------
----------------------------
+[//]: # (https://docs.google.com/document/d/1wgF2z8_QkCM0BIfiZpBWIPXvdDTKkjyZCqtckImJjew/edit?tab=t.0#heading=h.5x0d5h95i329)
+
 
 
 # Vulnerability Assessment Report

@@ -1,3 +1,6 @@
+
+[//]: # (https://docs.google.com/document/d/1wAmmpnDTTkRyVgl2_hf1psB92MjQdVTXaYVZ_w5x5GI/edit?tab=t.0#heading=h.adnh333husy)
+
 # Apply filters to SQL queries
 
 ### Project description
