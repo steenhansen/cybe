@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|-----------------------------------|
 | Assets, Threats, and Vulnerabilities          | [Threats lab](./lab_threats.md)   |
 | SQL queries                                   | [SQL lab](./lab_sql.md)           |
-| Update file through a Python algorithm        | [Python lab](./lab_sql.md)        |
+| Update file through a Python algorithm        | [Python lab](./lab_python.md)        |
 | Use Linux commands to manage file permissions | [Linux lab](./lab_linux.md)       |
 |  Finalize your incident handler's journal     | [Incident lab](./lab_incident.md) |
 
